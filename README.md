@@ -17,7 +17,7 @@ Este repositorio contiene pruebas automatizadas de UI y APIs utilizando Cypress.
 ## Instalación
 
 1. **Clonar el repositorio**  
-   git clone
+   git clone https://github.com/fabipzp/automationExercise
 
 2. **Instalar dependencias**  
    yarn install
